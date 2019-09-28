@@ -1,1 +1,1 @@
-# laboratornaya-rabota-1-znakomstvo-s-lisp-gramoska
+Лабораторная работа 1. Знакомство с LISP
